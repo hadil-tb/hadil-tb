@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋
-
 I’m a Computer Science student passionate about building full-stack applications and turning ideas into real, impactful products.
 
 ### 🚀 Projects

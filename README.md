@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**hadil-tb/hadil-tb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+I’m a Computer Science student passionate about building full-stack applications and turning ideas into real, impactful products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **Markly** – Multi-role marketplace app connecting users, sellers, and service providers  
+- **AgriNova** – Smart solution focused on agriculture and user needs  
+
+### 💻 Skills
+- **Programming:** C, C++, Python, Java  
+- **Web Development:** HTML, CSS, PHP, React, Next.js, Bootstrap  
+- **Mobile & Desktop:** Java (Android & Desktop), Flutter  
+- **Databases:** PostgreSQL, MySQL  
+- **Core Knowledge:** Software Testing, Requirements Engineering, Data Warehousing, Networking, Distributed Systems  
+- **AI:** Working with AI models  
+
+### 🎯 Goals
+- Build impactful tech products  
+- Grow as a full-stack engineer  
+- Pursue opportunities to study and work internationally  
+
+### 📫 Contact
+- 📧 hadil.toualbia@univ-constantine2.dz  
+- 💼 https://www.linkedin.com/in/hadeel-toualbia-8a6435258/

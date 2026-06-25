@@ -5,6 +5,7 @@ I’m a Computer Science student passionate about building full-stack applicatio
 ### 🚀 Projects
 - **Markly** – Multi-role marketplace app connecting users, sellers, and service providers  
 - **AgriNova** – Smart solution focused on agriculture and user needs
+
 📸 More screenshots:  https://drive.google.com/drive/folders/1uu-Jt2C-b9SFIOz6m-1FdfIRB8Bu-MpH?usp=drive_link
 
 ### 💻 Skills

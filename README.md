@@ -7,12 +7,12 @@ I’m a Computer Science student passionate about building full-stack applicatio
 - **AgriNova** – Smart solution focused on agriculture and user needs  
 
 ### 💻 Skills
-- **Programming:** C, C++, Python, Java  
+- **Programming:** C, C++, C#, Python, Java  
 - **Web Development:** HTML, CSS, PHP, React, Next.js, Bootstrap  
-- **Mobile & Desktop:** Java (Android & Desktop), Flutter  
+- **Mobile & Desktop:** Java (Android & Desktop), Flutter , .NET 
 - **Databases:** PostgreSQL, MySQL  
 - **Core Knowledge:** Software Testing, Requirements Engineering, Data Warehousing, Networking, Distributed Systems  
-- **AI:** Working with AI models  
+- **AI:** Building and working with AI models  
 
 ### 🎯 Goals
 - Build impactful tech products  
